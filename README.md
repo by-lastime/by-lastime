@@ -25,59 +25,40 @@
 
 <br>
 
-<a href="https://github.com/by-lastime/IA-GS"><img src="assets/ia-gs-studio.png" alt="IA’GS 实际应用界面：新建本地照片重建任务，选择保存位置与生成模式" width="100%"></a>
-
-### 01 / IA’GS
-
-**把照片，变成立体。** 面向 Apple Silicon Mac 的本地照片转 3D 高斯工具，支持遮罩修正、相机分组、模型预览与导出。
-
-`Rust / Tauri` &nbsp; `macOS 测试版`
-
-**[查看源码 ↗](https://github.com/by-lastime/IA-GS)** &nbsp; · &nbsp; [下载应用](https://github.com/by-lastime/IA-GS/releases/tag/v0.1.0)
-
-<sub>基于 OOOSplat 的开源衍生项目，保留上游与第三方声明。</sub>
-
-<br><br>
-
-<a href="#user-content-课程笔记"><img src="assets/course-notes-code.png" alt="课程笔记概念配图：黑色代码编辑器中排列 AI MATH、DSA、ICS、VCI 四个目录" width="100%"></a>
-
-### 02 / 课程笔记
-
-**把学过的东西，整理成可以重新读懂的笔记。** 汇集 AI 数学、数据结构与算法、计算机系统、可视计算与交互的讲义、练习与补充问答。
-
-`4 门课程` &nbsp; `HTML / PDF` &nbsp; `持续更新`
-
-**[打开完整课程目录 ↓](#user-content-课程笔记)** &nbsp; · &nbsp; [AI 数学在线阅读](https://by-lastime.github.io/ai-math-study-notes/) &nbsp; · &nbsp; [数算在线阅读](https://by-lastime.github.io/dsa-study-notes/)
-
-<br><br>
-
-<a href="https://github.com/by-lastime/dot-bilibili-mcp"><img src="assets/bilibili-mcp-code.png" alt="B 站 MCP 概念配图：黑色终端与 stdio 连接，评论发送状态为关闭" width="100%"></a>
-
-### 03 / B 站 MCP
-
-**让 Agent 接入 B 站视频与评论。** 面向 Linux 云沙箱，提供自有视频发现、评论与楼中楼读取、巡检队列、进度恢复和目标级回复防重。
-
-`Python` &nbsp; `stdio MCP` &nbsp; `v0.1.5`
-
-**[查看源码 ↗](https://github.com/by-lastime/dot-bilibili-mcp)** &nbsp; · &nbsp; [配置与工具说明](https://github.com/by-lastime/dot-bilibili-mcp/blob/main/README.txt)
-
-<sub>默认关闭发送；回复需明确授权并启用。云端连接仍需在目标环境验证。</sub>
-
-<br><br>
-
-<a href="https://github.com/by-lastime/yangyang-vocabulary-showcase"><img src="assets/vocabulary-code.png" alt="阳阳不忘词概念配图：黑色玻璃面板中的 remember 单词、音频波形与每日复习代码" width="100%"></a>
-
-### 04 / 阳阳不忘词
-
-**每天记一点，让单词留下来。** 面向小组的英语词汇打卡工具，连接词表整理、每日任务、美音播放、回忆练习、复习与错词回看。
-
-`Next.js / TypeScript` &nbsp; `项目展示`
-
-**[了解产品 ↗](https://github.com/by-lastime/yangyang-vocabulary-showcase)** &nbsp; · &nbsp; [查看开发进展](https://github.com/by-lastime/yangyang-vocabulary-showcase#当前进度)
-
-<sub>源码私有，上线准备中；尚未开放公网体验。</sub>
-
-<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/by-lastime/IA-GS"><img src="assets/ia-gs-studio.png" alt="IA’GS 实际应用界面：本地照片重建任务" width="100%"></a>
+      <p><strong>01 / IA’GS</strong></p>
+      <p>Apple Silicon Mac 上的照片转 3D 高斯工具，支持模型预览与导出。</p>
+      <p><a href="https://github.com/by-lastime/IA-GS">查看源码 ↗</a> · <a href="https://github.com/by-lastime/IA-GS/releases/tag/v0.1.0">下载应用</a></p>
+      <sub>macOS 测试版 · Rust / Tauri<br>基于 OOOSplat，保留上游与第三方声明。</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="#user-content-课程笔记"><img src="assets/course-notes-code.png" alt="课程笔记概念配图：AI MATH、DSA、ICS、VCI 四个目录" width="100%"></a>
+      <p><strong>02 / 课程笔记</strong></p>
+      <p>AI 数学、数算、计算机系统与可视计算：讲义、练习和补充问答。</p>
+      <p><a href="#user-content-课程笔记">打开完整课程目录 ↓</a></p>
+      <sub>4 门课程 · HTML / PDF<br>持续更新，支持在线阅读。</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/by-lastime/dot-bilibili-mcp"><img src="assets/bilibili-mcp-code.png" alt="B 站 MCP 概念配图：终端与 stdio 连接，发送默认关闭" width="100%"></a>
+      <p><strong>03 / B 站 MCP</strong></p>
+      <p>让 Agent 读取自有视频与评论，支持巡检恢复和目标级回复防重。</p>
+      <p><a href="https://github.com/by-lastime/dot-bilibili-mcp">查看源码 ↗</a> · <a href="https://github.com/by-lastime/dot-bilibili-mcp/blob/main/README.txt">使用说明</a></p>
+      <sub>Python · stdio MCP · v0.1.5<br>Linux 云沙箱；默认关闭发送，连接需实机验证。</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/by-lastime/yangyang-vocabulary-showcase"><img src="assets/vocabulary-code.png" alt="阳阳不忘词概念配图：单词、音频波形与每日复习代码" width="100%"></a>
+      <p><strong>04 / 阳阳不忘词</strong></p>
+      <p>面向小组的词汇打卡工具，把美音、每日练习、复习与错词回看放在一起。</p>
+      <p><a href="https://github.com/by-lastime/yangyang-vocabulary-showcase">了解产品 ↗</a> · <a href="https://github.com/by-lastime/yangyang-vocabulary-showcase#当前进度">开发进展</a></p>
+      <sub>Next.js / TypeScript<br>源码私有，上线准备中。</sub>
+    </td>
+  </tr>
+</table>
 
 <sub>IA’GS 配图为实际应用截图；课程笔记、B 站 MCP 与阳阳不忘词配图为 AI 生成的概念视觉。</sub>
 
