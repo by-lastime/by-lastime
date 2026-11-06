@@ -60,6 +60,7 @@
 | | [研究学习工作流](https://github.com/by-lastime/research-learning-workflow) | 论文精读、教学实验与来源核验 · MIT 开源 |
 | **学习与知识** | [数学知识与方法题库](https://github.com/by-lastime/math-bank-showcase) | 资料追溯、方法关联与审核 · 公开项目介绍 |
 | | [阳阳不忘词](https://github.com/by-lastime/yangyang-vocabulary-showcase) | 小组词汇打卡、美音与复习 · 上线准备中，源码私有 |
+| **Agent 工具** | [DOT Bilibili MCP](https://github.com/by-lastime/dot-bilibili-mcp) | 自有视频与评论读取、巡检进度、目标级防重 · v0.1.5，默认关闭发送 |
 | **协作工具** | [Codex 中文写作 Skills](https://github.com/by-lastime/codex-deepseek-skills) | 中文写作与多轮评审协作流程 · 需本地环境 |
 
 ## 正在探索
@@ -93,7 +94,9 @@
 
   <p><a href="https://github.com/by-lastime/ics-study-notes">ICS · 计算机系统</a> · <a href="https://by-lastime.github.io/ics-study-notes/">在线阅读</a></p>
   <p><a href="https://github.com/by-lastime/vci-study-notes">VCI · 可视计算与交互</a> · <a href="https://by-lastime.github.io/vci-study-notes/">在线阅读</a></p>
-  <p>两份笔记均提供目录、使用说明、在线与离线 HTML 以及 PDF。课程尚未结束。</p>
+  <p><a href="https://github.com/by-lastime/ai-math-study-notes">AI 数学 · 概率与随机变量</a> · <a href="https://by-lastime.github.io/ai-math-study-notes/">在线阅读</a> · 41 个讲次、来源题与补充问答</p>
+  <p><a href="https://github.com/by-lastime/dsa-study-notes">数算 · 数据结构与算法</a> · <a href="https://by-lastime.github.io/dsa-study-notes/">在线阅读</a> · 六章精讲、题型训练与模拟卷</p>
+  <p>课程笔记提供目录、使用说明、在线与离线 HTML 以及 PDF。原始教材和完整课件不随公开版分发，课程内容持续更新。</p>
 </details>
 
 ---
