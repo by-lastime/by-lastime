@@ -21,46 +21,74 @@
 
 ## 精选项目
 
-<sub>SELECTED WORK / 01—04</sub>
+<sub>SELECTED WORK / 01—09</sub>
 
 <br>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/by-lastime/IA-GS"><img src="assets/ia-gs-studio.png" alt="IA’GS 实际应用界面：本地照片重建任务" width="100%"></a>
-      <p><strong>01 / IA’GS</strong></p>
-      <p>Apple Silicon Mac 上的照片转 3D 高斯工具，支持模型预览与导出。</p>
-      <p><a href="https://github.com/by-lastime/IA-GS">查看源码 ↗</a> · <a href="https://github.com/by-lastime/IA-GS/releases/tag/v0.1.0">下载应用</a></p>
-      <sub>macOS 测试版 · Rust / Tauri<br>基于 OOOSplat，保留上游与第三方声明。</sub>
+    <td width="33%" valign="top">
+      <a href="https://github.com/by-lastime/IA-GS"><img src="assets/ia-gs-studio.png" alt="IA’GS 实际应用界面" width="100%"></a>
+      <p><strong>01 / IA’GS</strong><br><sub>macOS 测试版</sub></p>
+      <p>本地照片转 3D 高斯，支持预览与导出。</p>
+      <a href="https://github.com/by-lastime/IA-GS">源码 ↗</a> · <a href="https://github.com/by-lastime/IA-GS/releases/tag/v0.1.0">下载</a>
     </td>
-    <td width="50%" valign="top">
-      <a href="#user-content-课程笔记"><img src="assets/course-notes-macos-2d.png" alt="课程笔记概念配图：AI MATH、DSA、ICS、VCI 四个目录" width="100%"></a>
-      <p><strong>02 / 课程笔记</strong></p>
-      <p>AI 数学、数算、计算机系统与可视计算：讲义、练习和补充问答。</p>
-      <p><a href="#user-content-课程笔记">打开完整课程目录 ↓</a></p>
-      <sub>4 门课程 · HTML / PDF<br>持续更新，支持在线阅读。</sub>
+    <td width="33%" valign="top">
+      <a href="#user-content-课程笔记"><img src="assets/course-notes-macos-2d.png" alt="课程笔记：二维 macOS 风格概念配图" width="100%"></a>
+      <p><strong>02 / 课程笔记</strong><br><sub>4 门课程 · 持续更新</sub></p>
+      <p>AI 数学、数算、计算机系统与可视计算。</p>
+      <a href="#user-content-课程笔记">课程目录 ↗</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/by-lastime/dot-bilibili-mcp"><img src="assets/bilibili-mcp-macos-2d.png" alt="B 站 MCP：二维 macOS 风格概念配图" width="100%"></a>
+      <p><strong>03 / B 站 MCP</strong><br><sub>默认关闭发送</sub></p>
+      <p>视频与评论读取、巡检恢复、回复防重。</p>
+      <a href="https://github.com/by-lastime/dot-bilibili-mcp">源码 ↗</a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/by-lastime/dot-bilibili-mcp"><img src="assets/bilibili-mcp-macos-2d.png" alt="B 站 MCP 概念配图：终端与 stdio 连接，发送默认关闭" width="100%"></a>
-      <p><strong>03 / B 站 MCP</strong></p>
-      <p>让 Agent 读取自有视频与评论，支持巡检恢复和目标级回复防重。</p>
-      <p><a href="https://github.com/by-lastime/dot-bilibili-mcp">查看源码 ↗</a> · <a href="https://github.com/by-lastime/dot-bilibili-mcp/blob/main/README.txt">使用说明</a></p>
-      <sub>Python · stdio MCP · v0.1.5<br>Linux 云沙箱；默认关闭发送，连接需实机验证。</sub>
+    <td width="33%" valign="top">
+      <a href="https://github.com/by-lastime/yangyang-vocabulary-showcase"><img src="assets/vocabulary-macos-2d.png" alt="阳阳不忘词：二维 macOS 风格概念配图" width="100%"></a>
+      <p><strong>04 / 阳阳不忘词</strong><br><sub>源码私有 · 准备上线</sub></p>
+      <p>小组词汇打卡、美音、复习与错词回看。</p>
+      <a href="https://github.com/by-lastime/yangyang-vocabulary-showcase">产品介绍 ↗</a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/by-lastime/yangyang-vocabulary-showcase"><img src="assets/vocabulary-macos-2d.png" alt="阳阳不忘词概念配图：macOS 风格二维窗口中的单词、音频波形与复习提示" width="100%"></a>
-      <p><strong>04 / 阳阳不忘词</strong></p>
-      <p>面向小组的词汇打卡工具，把美音、每日练习、复习与错词回看放在一起。</p>
-      <p><a href="https://github.com/by-lastime/yangyang-vocabulary-showcase">了解产品 ↗</a> · <a href="https://github.com/by-lastime/yangyang-vocabulary-showcase#当前进度">开发进展</a></p>
-      <sub>Next.js / TypeScript<br>源码私有，上线准备中。</sub>
+    <td width="33%" valign="top">
+      <a href="https://github.com/by-lastime/codex-deepseek-skills"><img src="assets/writing-skill-macos-2d.png" alt="写作 Skill：二维 macOS 风格概念配图" width="100%"></a>
+      <p><strong>05 / 写作 Skill</strong><br><sub>Codex × DeepSeek</sub></p>
+      <p>协作起草、评改、表达检查与引文核验。</p>
+      <a href="https://github.com/by-lastime/codex-deepseek-skills">查看技能 ↗</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/by-lastime/solar-filament-showcase"><img src="assets/solar-filament-macos-2d.png" alt="太阳暗条：二维 macOS 风格概念配图" width="100%"></a>
+      <p><strong>06 / 太阳暗条</strong><br><sub>研究展示</sub></p>
+      <p>太阳暗条实例分割、候选分析与局部细化。</p>
+      <a href="https://github.com/by-lastime/solar-filament-showcase">研究介绍 ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="#user-content-猫类意图识别"><img src="assets/cat-intent-macos-2d.png" alt="猫类意图识别：二维 macOS 风格概念配图" width="100%"></a>
+      <p><strong>07 / 猫类意图识别</strong><br><sub>研究进行中</sub></p>
+      <p>结合音频、姿态与多模态融合探索猫类意图。</p>
+      <a href="#user-content-猫类意图识别">研究进展 ↗</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/by-lastime/math-bank-showcase"><img src="assets/math-bank-macos-2d.png" alt="高中数学题库：二维 macOS 风格概念配图" width="100%"></a>
+      <p><strong>08 / 高中数学题库</strong><br><sub>源码与完整数据私有</sub></p>
+      <p>关联题目、来源、知识点与具体解题方法。</p>
+      <a href="https://github.com/by-lastime/math-bank-showcase">项目介绍 ↗</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/by-lastime/research-learning-workflow"><img src="assets/research-workflow-macos-2d.png" alt="科研工作流：二维 macOS 风格概念配图" width="100%"></a>
+      <p><strong>09 / 科研工作流</strong><br><sub>MIT 开源</sub></p>
+      <p>从论文精读到讲义、教学实验与作答反馈。</p>
+      <a href="https://github.com/by-lastime/research-learning-workflow">查看源码 ↗</a>
     </td>
   </tr>
 </table>
 
-<sub>IA’GS 配图为实际应用截图；课程笔记、B 站 MCP 与阳阳不忘词配图为 AI 生成的概念视觉。</sub>
+<sub>IA’GS 为实际应用截图，基于 OOOSplat，保留上游与第三方声明；其余配图为 AI 生成的概念视觉。</sub>
 
 <br><br>
 
@@ -108,7 +136,7 @@
 
 #### 太阳暗条实例分割
 
-面向 2026 挑战赛的 H-alpha 图像分割方案。重点研究高分辨率 Mask R-CNN，以 U-Net 作对照，关注时间分组划分、细小目标召回、PQ 与分组 Bootstrap 验证。
+面向 2026 挑战赛的 Hα 图像实例分割研究。已开展多轮基线、分辨率消融、候选误差分析与局部细化，继续补充形态评价和研究文稿。[研究介绍 ↗](https://github.com/by-lastime/solar-filament-showcase)
 
 #### 跨语言提示与中国形象表征
 
