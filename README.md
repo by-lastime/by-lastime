@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="#精选项目">项目</a> &nbsp; / &nbsp;
-  <a href="#课程笔记">笔记</a> &nbsp; / &nbsp;
-  <a href="#正在探索">研究</a> &nbsp; / &nbsp;
-  <a href="#工具箱">工具</a>
+  <a href="#user-content-精选项目">项目</a> &nbsp; / &nbsp;
+  <a href="#user-content-课程笔记">笔记</a> &nbsp; / &nbsp;
+  <a href="#user-content-正在探索">研究</a> &nbsp; / &nbsp;
+  <a href="#user-content-工具箱">工具</a>
 </p>
 
 <br>
@@ -39,7 +39,7 @@
 
 <br><br>
 
-<a href="#课程笔记"><img src="assets/course-notes-code.png" alt="课程笔记概念配图：黑色代码编辑器中排列 AI MATH、DSA、ICS、VCI 四个目录" width="100%"></a>
+<a href="#user-content-课程笔记"><img src="assets/course-notes-code.png" alt="课程笔记概念配图：黑色代码编辑器中排列 AI MATH、DSA、ICS、VCI 四个目录" width="100%"></a>
 
 ### 02 / 课程笔记
 
@@ -47,7 +47,7 @@
 
 `4 门课程` &nbsp; `HTML / PDF` &nbsp; `持续更新`
 
-**[打开完整课程目录 ↓](#课程笔记)** &nbsp; · &nbsp; [AI 数学在线阅读](https://by-lastime.github.io/ai-math-study-notes/) &nbsp; · &nbsp; [数算在线阅读](https://by-lastime.github.io/dsa-study-notes/)
+**[打开完整课程目录 ↓](#user-content-课程笔记)** &nbsp; · &nbsp; [AI 数学在线阅读](https://by-lastime.github.io/ai-math-study-notes/) &nbsp; · &nbsp; [数算在线阅读](https://by-lastime.github.io/dsa-study-notes/)
 
 <br><br>
 
