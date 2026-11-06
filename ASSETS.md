@@ -1,12 +1,28 @@
 # 主页素材与维护
 
-本仓库为 `by-lastime` 的 GitHub Profile README。项目简介以对应公开仓库 README 和作者提供的项目经历为依据。
+本仓库为 `by-lastime` 的 GitHub Profile README。项目简介以对应公开仓库和作者提供的项目经历为依据。
 
-- `assets/header.svg`：原创个人主页横幅，沿用个人网站的浅蓝、深蓝与暖色配色。
-- `assets/ia-gs-studio.png`：来自作者公开仓库 `by-lastime/IA-GS` 的 `assets/screenshots/studio.png`，为已有应用界面截图。原项目的上游与第三方说明见对应仓库。
-- 其余三张 SVG：原创功能或结构示意，标签描述项目能力，不展示真实论文、私人批注、题库内容或用户数据。
-- `scripts/build-assets.py`：生成 SVG 素材，无网络请求与第三方图片服务。正文维护在 `README.md`。
+## 当前设计
 
-保持项目的发布范围与阶段说明；新增链接应先核实是否公开可访问。源码仓库与介绍仓库在主页目录中只计为一个项目。
+2026-11-07 更新：黑色代码风格，冷白文字、蓝绿语法高亮、黑色玻璃与金属边缘。正文使用 GitHub 原生 Markdown/HTML，单列展示四个项目，避免窄屏固定双列表格；顶部导航与完整课程目录均为可点击文本。页面底色仍由访客的 GitHub 主题控制。
 
-更新素材：`python3 scripts/build-assets.py`。SVG 使用独立的浅色画布，因此在 GitHub 深浅色主题下都有明确的文字对比度。
+| 素材 | 来源与用途 |
+| --- | --- |
+| `assets/header-code.png` | 内置 imagegen 生成的个人横幅 |
+| `assets/ia-gs-studio.png` | 作者公开仓库 `by-lastime/IA-GS` 的 `assets/screenshots/studio.png`，实际应用截图；保留原样 |
+| `assets/course-notes-code.png` | imagegen 生成，四门课程的代码编辑器概念视觉 |
+| `assets/bilibili-mcp-code.png` | imagegen 生成，MCP 终端概念视觉；并非实际命令输出截图 |
+| `assets/vocabulary-code.png` | imagegen 生成，词汇学习概念视觉；并非应用界面或真实学习数据 |
+| `assets/image-prompts.json` | 当前四张生成图片的完整提示词 |
+
+本次使用内置图片生成工具。工具没有提供模型选择或具体版本确认，故不把产物标记为已经核实的“Image 2.6”。生成图保留原始 PNG，不裁切、不重绘；所有引用素材均存放在本仓库。
+
+历史 SVG 与 `scripts/build-assets.py` 保留供回溯；当前 README 不再引用旧横幅或旧项目示意图。运行该脚本只会生成历史素材，不会更新当前 PNG。
+
+## 内容维护
+
+- 四个主展示项为 IA’GS、课程笔记、B 站 MCP、阳阳不忘词。
+- 课程目录收录当前公开的 AI 数学、DSA、ICS、VCI 四个笔记仓库。新增课程时同步更新目录、课程数量与配图说明。
+- 项目阶段以对应仓库为准；不要把概念配图标成实际截图或把展示仓库称为完整开源应用。
+- 研究经历和职责沿用作者已提供的事实，不添加未经核实的数据、成果或角色。
+- 修改后检查 GitHub Markdown 渲染、所有锚点、图片与项目链接，并检查桌面和手机视口。
