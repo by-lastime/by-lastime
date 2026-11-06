@@ -4,20 +4,20 @@
 
 ## 当前设计
 
-2026-11-07 更新：黑色代码风格，冷白文字、蓝绿语法高亮、黑色玻璃与金属边缘。正文使用 GitHub 原生 Markdown/HTML，按两列两排紧凑展示四个项目，图片随单元格宽度缩放，文案只保留简介、入口与状态；顶部导航与完整课程目录均为可点击文本。页面底色仍由访客的 GitHub 主题控制。
+2026-11-07 更新：二维 macOS 窗口风格：黑灰底色、细边框、轻微半透明层次、系统字体与蓝绿代码高亮；正面平面布局，不使用透视或实体产品渲染。正文使用 GitHub 原生 Markdown/HTML，按两列两排紧凑展示四个项目，图片随单元格宽度缩放，文案只保留简介、入口与状态；顶部导航与完整课程目录均为可点击文本。页面底色仍由访客的 GitHub 主题控制。
 
 | 素材 | 来源与用途 |
 | --- | --- |
-| `assets/header-code.png` | 内置 imagegen 生成的个人横幅 |
+| `assets/header-macos-2d.png` | 内置 imagegen 生成的二维 macOS 窗口个人横幅 |
 | `assets/ia-gs-studio.png` | 作者公开仓库 `by-lastime/IA-GS` 的 `assets/screenshots/studio.png`，实际应用截图；保留原样 |
-| `assets/course-notes-code.png` | imagegen 生成，四门课程的代码编辑器概念视觉 |
-| `assets/bilibili-mcp-code.png` | imagegen 生成，MCP 终端概念视觉；并非实际命令输出截图 |
-| `assets/vocabulary-code.png` | imagegen 生成，词汇学习概念视觉；并非应用界面或真实学习数据 |
+| `assets/course-notes-macos-2d.png` | imagegen 生成，四门课程的代码编辑器概念视觉 |
+| `assets/bilibili-mcp-macos-2d.png` | imagegen 生成，MCP 终端概念视觉；并非实际命令输出截图 |
+| `assets/vocabulary-macos-2d.png` | imagegen 生成，词汇学习概念视觉；并非应用界面或真实学习数据 |
 | `assets/image-prompts.json` | 当前四张生成图片的完整提示词 |
 
 本次使用内置图片生成工具。工具没有提供模型选择或具体版本确认，故不把产物标记为已经核实的“Image 2.6”。生成图保留原始 PNG，不裁切、不重绘；所有引用素材均存放在本仓库。
 
-历史 SVG 与 `scripts/build-assets.py` 保留供回溯；当前 README 不再引用旧横幅或旧项目示意图。运行该脚本只会生成历史素材，不会更新当前 PNG。
+历史 SVG、上一版 `*-code.png` 与 `scripts/build-assets.py` 保留供回溯；当前 README 不再引用旧横幅或旧项目示意图。运行该脚本只会生成历史素材，不会更新当前 PNG。
 
 ## 内容维护
 

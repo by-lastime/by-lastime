@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header-code.png" alt="十一 / LASTIME — 一点好奇，很多可能。AI、视觉计算与学习工具。" width="100%">
+  <img src="assets/header-macos-2d.png" alt="十一 / LASTIME — 一点好奇，很多可能。AI、视觉计算与学习工具。" width="100%">
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
       <sub>macOS 测试版 · Rust / Tauri<br>基于 OOOSplat，保留上游与第三方声明。</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="#user-content-课程笔记"><img src="assets/course-notes-code.png" alt="课程笔记概念配图：AI MATH、DSA、ICS、VCI 四个目录" width="100%"></a>
+      <a href="#user-content-课程笔记"><img src="assets/course-notes-macos-2d.png" alt="课程笔记概念配图：AI MATH、DSA、ICS、VCI 四个目录" width="100%"></a>
       <p><strong>02 / 课程笔记</strong></p>
       <p>AI 数学、数算、计算机系统与可视计算：讲义、练习和补充问答。</p>
       <p><a href="#user-content-课程笔记">打开完整课程目录 ↓</a></p>
@@ -44,14 +44,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/by-lastime/dot-bilibili-mcp"><img src="assets/bilibili-mcp-code.png" alt="B 站 MCP 概念配图：终端与 stdio 连接，发送默认关闭" width="100%"></a>
+      <a href="https://github.com/by-lastime/dot-bilibili-mcp"><img src="assets/bilibili-mcp-macos-2d.png" alt="B 站 MCP 概念配图：终端与 stdio 连接，发送默认关闭" width="100%"></a>
       <p><strong>03 / B 站 MCP</strong></p>
       <p>让 Agent 读取自有视频与评论，支持巡检恢复和目标级回复防重。</p>
       <p><a href="https://github.com/by-lastime/dot-bilibili-mcp">查看源码 ↗</a> · <a href="https://github.com/by-lastime/dot-bilibili-mcp/blob/main/README.txt">使用说明</a></p>
       <sub>Python · stdio MCP · v0.1.5<br>Linux 云沙箱；默认关闭发送，连接需实机验证。</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/by-lastime/yangyang-vocabulary-showcase"><img src="assets/vocabulary-code.png" alt="阳阳不忘词概念配图：单词、音频波形与每日复习代码" width="100%"></a>
+      <a href="https://github.com/by-lastime/yangyang-vocabulary-showcase"><img src="assets/vocabulary-macos-2d.png" alt="阳阳不忘词概念配图：macOS 风格二维窗口中的单词、音频波形与复习提示" width="100%"></a>
       <p><strong>04 / 阳阳不忘词</strong></p>
       <p>面向小组的词汇打卡工具，把美音、每日练习、复习与错词回看放在一起。</p>
       <p><a href="https://github.com/by-lastime/yangyang-vocabulary-showcase">了解产品 ↗</a> · <a href="https://github.com/by-lastime/yangyang-vocabulary-showcase#当前进度">开发进展</a></p>
